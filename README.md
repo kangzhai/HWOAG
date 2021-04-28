@@ -15,7 +15,7 @@ Xinming Zhang, Qiang Kang, Qiang Tu, Jinfeng Cheng, Xia Wang. Efficient and merg
 
 The codes of EMBBO are available at https://github.com/kangzhai/EMBBO.
 
-**HBBOS**
+**HBBOS:**
 
 Xinming Zhang, Qiang Kang, Xia Wang. Hybrid biogeography-based optimization with shuffled frog leaping algorithm and its application to minimum spanning tree problems. Swarm and Evolutionary Computation, 2019, 49: 245-265. https://doi.org/10.1016/j.swevo.2019.07.001
 
